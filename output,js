@@ -9,3 +9,15 @@ console.log('Data has been written to the file.');
 writeStream.on('error', (err) => {
 console.error('Error writing to file:', err);
 });
+//ca 1 answers
+// var fs = require("fs");
+// var data = fs.readFileSync('Input.txt');// var fs = require("fs");
+// var data = fs.readFileSync('Input.txt');
+// var fs = require("fs");
+// var data = fs.readFileSync('Input.txt');
+// var fs = require("fs");
+// var data = fs.readFileSync('Input.txt');
+// var fs = require("fs");
+// var data = fs.readFileSync('Input.txt');
+// var fs = require("fs");
+// var data = fs.readFileSync('Input.txt');
