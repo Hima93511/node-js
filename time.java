@@ -19,3 +19,4 @@ class HelloWorld {
         System.out.printf("%d:%d:%d:%d\n", h, m, s, n);
     }
 }
+# the code is written by himanshu garg 
